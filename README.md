@@ -9,7 +9,7 @@
 4. Stop the running application
 
 ### DDDSample-Core
-1. Run [https://github.com/Intelligent-CAT-Lab/microservice-fuzzing/tree/chinmay-all-submodules/subjects/Dddsample-core) by following steps in its readme
+1. Run [dddsample-core](https://github.com/Intelligent-CAT-Lab/microservice-fuzzing/tree/chinmay-all-submodules/subjects/Dddsample-core) by following steps in its readme
 2. Open this project in IntelliJ
 3. Run ``/src/test/java/com/microservices/integrationTests/DddSampleCoreIntegrationTests.java``
 4. Stop the running application
